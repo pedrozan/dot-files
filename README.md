@@ -6,6 +6,7 @@ My configurations for Ubuntu development happiness
     - [NeoVim](#neovim)
     - [Zshell](#zshell)
     - [Tmux](#tmux)
+    - [Extras](#extras)
 
 - [Fonts](#fonts)
 
@@ -32,6 +33,12 @@ My configurations for Ubuntu development happiness
 
 - Install tmux: `sudo apt-get update && sudo apt-get install tmux`
 - Copy configurations from `tmux/.tmux.conf` to `~/.tmux.conf`
+
+### Extras
+
+- [z](https://github.com/rupa/z) for moving between files
+- [vtop](https://github.com/MrRio/vtop) to check your computer status
+- [Taskbook](https://github.com/klaussinani/taskbook) for todos and notes
 
 
 ## Fonts
