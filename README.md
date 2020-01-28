@@ -1,2 +1,2 @@
-# doc-files
+# dot-files
 My configurations for Ubuntu development happiness
