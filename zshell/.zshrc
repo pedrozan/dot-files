@@ -176,6 +176,7 @@ alias top="vtop --theme=wizard"
 alias ls="colorls -lA --sd"
 
 alias clima="curl wttr.in"
+alias venv="python3 -m venv .venv && source .venv/bin/activate"
 
 # source $ZSH/oh-my-zsh.sh
 
