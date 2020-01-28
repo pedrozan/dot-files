@@ -5,6 +5,7 @@ My configurations for Ubuntu development happiness
 - [Installation](#installation)
     - [NeoVim](#neovim)
     - [Zshell](#zshell)
+    - [Tmux](#tmux)
 
 - [Fonts](#fonts)
 
@@ -26,6 +27,11 @@ My configurations for Ubuntu development happiness
 - Install Zshell: `$ sudo apt-get update && sudo apt-get install zsh`;
 - Install [OhMyZshell](https://ohmyz.sh/): `$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 - Copy configurations from `zshell/.zshrc` to `~/.zshrc`, you might want to make a backup of your old `.zshrc` with `$ mv ~/.zshrc ~/_zshrc`
+
+### Tmux
+
+- Install tmux: `sudo apt-get update && sudo apt-get install tmux`
+- Copy configurations from `tmux/.tmux.conf` to `~/.tmux.conf`
 
 
 ## Fonts
