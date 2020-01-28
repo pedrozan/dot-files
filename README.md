@@ -1,6 +1,12 @@
 # dot-files
 My configurations for Ubuntu development happiness
 
+## Contents
+- [Installation](#installation)
+    - [NeoVim](#neovim)
+
+- [Fonts](#fonts)
+
 ## Installation
 
 ### NeoVim
